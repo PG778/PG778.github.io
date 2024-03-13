@@ -12,7 +12,7 @@ html, body {
 iframe{
   border: 3px double #000;
   border-radius: 5px;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 #AboutMe{
   margin: 50px 50px 50px 50px;
@@ -93,7 +93,7 @@ div{
   text-align: center;
   margin-left: 25%;
   margin-right: 25%;
-  overflow-x: hidden;
+  overflow: hidden;
 }
 
 
