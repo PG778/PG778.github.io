@@ -12,8 +12,12 @@ html, body {
 iframe{
   border: 3px double #000;
   border-radius: 5px;
+  overflow-x: hidden;
 }
-
+#AboutMe{
+  margin: 50px 50px 50px 50px;
+  text-align: center;
+}
 
 @media (min-width: 0px) and (max-width: 767px) {
   .navbar-collapse {

@@ -32,6 +32,7 @@ html, body {
 
 iframe{
   border: 3px double #000;
+  overflow-x: hidden;
 }
 
 
