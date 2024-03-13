@@ -82,6 +82,7 @@ p{
   color:#E8EDDF;
   background:#333433;
   
+  
 
 }
  div{
@@ -90,7 +91,7 @@ p{
   margin-left: 25%;
   margin-right: 25%;
   font-size: 20px;
-   fill
+  top: 10px;
 }
 
 
@@ -121,6 +122,7 @@ footer{
 
 
 
-#AboutMe{
+p, #AboutMe{
     margin: 50px 50px 50px 50px;
+    text-align: center;
 }
