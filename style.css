@@ -122,5 +122,6 @@ footer{
 
 
 #AboutMe{
-  text-align: center;
+  left: 10px;
+  right: 10px;
 }
