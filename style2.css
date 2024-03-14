@@ -91,9 +91,9 @@ p{
 div{
   background:#333433;
   text-align: center;
+  align-content: center;
   width: 50%;
-  margin-left: 10%;
-  margin-right: 10%;
+  
   overflow: hidden;
 }
 
