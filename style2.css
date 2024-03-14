@@ -12,7 +12,7 @@ html, body {
 iframe{
   border: 3px double #000;
   border-radius: 5px;
-  overflow-y: visible;
+  width: max-content;
 }
 #AboutMe{
   margin: 50px 50px 50px 50px;
@@ -91,7 +91,7 @@ p{
 div{
   background:#333433;
   text-align: center;
-  width: 70%;
+  width: 50%;
   margin-left: 25%;
   margin-right: 25%;
   overflow: hidden;
@@ -101,15 +101,16 @@ div{
 
 iframe,#other{
   
-  width: 700px;
+ 
   height: 400px;
   border: 0;
   border-radius: 0;
+  width: max-content;
 }
 
 iframe, #res{
   
-  width: 700px;
+  width: max-content;
   height: 800px;
   border: 0;
   border-radius: 0;
