@@ -12,7 +12,7 @@ html, body {
 iframe{
   border: 3px double #000;
   border-radius: 5px;
-  width: auto;
+  
 }
 #AboutMe{
   margin: 50px 50px 50px 50px;
@@ -105,12 +105,12 @@ iframe,#other{
   height: 400px;
   border: 0;
   border-radius: 0;
-  width: auto;
+ 
 }
 
 iframe, #res{
   
-  width: auto;
+
   height: 800px;
   border: 0;
   border-radius: 0;
